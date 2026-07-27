@@ -1,0 +1,9 @@
+{
+  "id": "obsimind-sync",
+  "name": "ObsiMind Upgrade",
+  "version": "2.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Обновления шаблона",
+  "author": "Elton Labs",
+  "isDesktopOnly": false
+}
